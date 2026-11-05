@@ -63,10 +63,4 @@ export const managers: TeamMember[] = [
     image: '/images/professionals/lillyjia_profile.jpg',
     slug: 'lilly-jia',
   },
-  {
-    name: 'Terry Yip',
-    titleKey: 'terryYipTitle',
-    image: '/images/professionals/terryyip_profile.jpg',
-    slug: 'terry-yip',
-  },
 ];
